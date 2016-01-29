@@ -1,6 +1,6 @@
-*.o
-Makefile
-my-project
-qrc_*
+/root/*.o
+/root/Makefile
+/root/my-project
+/root/qrc_*
 
 /node_modules

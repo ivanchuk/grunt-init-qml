@@ -1,0 +1,3 @@
+{
+  "my-project.pro": "{%= name %}.pro"
+}

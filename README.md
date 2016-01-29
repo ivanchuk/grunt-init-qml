@@ -8,7 +8,10 @@ Clone this repo into your grunt templates folder (`~/.grunt-init/`):
 $ git clone https://github.com/ivanchuk/grunt-init-qml.git ~/.grunt-init/qml
 ```
 
-## TODO
-* Grunt template structure
-* Installation steps
-* Project name parameter
+Then, run:
+
+```
+$ npm install
+$ chmod +x build-and-run.sh
+$ grunt-init qml
+```
