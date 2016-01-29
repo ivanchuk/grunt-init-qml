@@ -1,0 +1,6 @@
+*.o
+Makefile
+my-project
+qrc_*
+
+/node_modules
