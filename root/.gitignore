@@ -1,0 +1,6 @@
+*.o
+Makefile
+{%= name %}
+qrc_*
+
+/node_modules
