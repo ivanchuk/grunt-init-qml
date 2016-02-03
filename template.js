@@ -3,7 +3,7 @@
 exports.description = 'Create a Qt Quick Application project files.';
 exports.notes = '_name_ should not contain spaces.';
 exports.after = 'You should now run `grunt`.\n' +
-  'Every `.qml` file you change, an script will all close running instances, rebuild and run.' +
+  'Every `.qml` file you change, an script will close all running instances, rebuild and run.' +
   '\n\n' +
   'Available commands:' +
   '\n' +
