@@ -16,7 +16,7 @@ $ git clone https://github.com/ivanchuk/grunt-init-qml.git ~/.grunt-init/qml
 
 ```
 $ mkdir my-project
-$ cd my-priject
+$ cd my-project
 $ grunt-init qml
 $ npm install
 $ chmod +x build-and-run.sh
